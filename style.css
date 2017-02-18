@@ -1,7 +1,6 @@
 html, body, div, span,h1, h2, p, img {
 	margin: 0;
 	padding: 0;
-	
 }
 body{
 	height:2000px;
@@ -30,16 +29,11 @@ body{
 
 .main{
 	width:520px;
-	
-	
 	margin: 200px auto;
 	position: relative;
 }
 .top{
 	background-color: #ebebeb;
-
-	
-	
 }
 .middle{
 	background-color: #cccccc;
@@ -54,7 +48,6 @@ body{
 	left:40px;
 }
 .label-1{
-
 	position: absolute;
 	top:40px;
 	right:-85px;
@@ -63,9 +56,8 @@ body{
 	background-color: #f68e56;
 	border:2px solid black;
 	border-radius: 0 10px 10px 0;
-		}
+}
 .label-2{
-
 	position: absolute;
 	top:65px;
 	right:-70px;
@@ -76,7 +68,6 @@ body{
 	border-radius: 0 10px 10px 0;
 }
 .label-3{
-
 	position: absolute;
 	top:90px;
 	right:-55px;
